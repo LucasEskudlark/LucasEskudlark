@@ -1,7 +1,6 @@
 
 <h3> About me </h3>
 
-- Quick-learner and solution-driven with excellent communication skills, I thrive on tackling complex problems and collaborating with teams to deliver innovative solutions...
 - Studying **Software Engineering** at <a href="https://www.pucpr.br/">Pontifícia Universidade Católica do Paraná - PUCPR</a>.
 - Intern at <a href=https://www.stone.com.br/>Stone Payments.</a>
 - Learning more about **.NET, C#, CQRS, DDD, Testing, Best practices and Databases**.
