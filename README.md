@@ -3,7 +3,6 @@
 
 - Studying **Software Engineering** at <a href="https://www.pucpr.br/">Pontifícia Universidade Católica do Paraná - PUCPR</a>.
 - Junior SWE at <a href=https://www.stone.com.br/>Stone Payments.</a>
-- Learning more about **.NET, C#, CQRS, DDD, Testing, Best practices and Databases**.
 
 <h3> My Skills </h3>
 
@@ -30,6 +29,5 @@
 
 <h3> Contact me </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/LucasEskudlark-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbeskudlark/)
-[![Gmail Badge](https://img.shields.io/badge/-lucasbeskudlark@email.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lucasbeskudlark@gmail.com)
+[![Linkedin: Lucas Eskudlark](https://img.shields.io/badge/LucasEskudlark-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbeskudlark/)
 
