@@ -2,7 +2,7 @@
 <h3> About me </h3>
 
 - Studying **Software Engineering** at <a href="https://www.pucpr.br/">Pontifícia Universidade Católica do Paraná - PUCPR</a>.
-- Junior SWE at <a href=https://www.stone.com.br/>Stone Payments.</a>
+- SWE at <a href=https://www.stone.com.br/>Stone Payments.</a>
 
 <h3> My Skills </h3>
 
